@@ -18,3 +18,13 @@
 /Users/jakobhoy/Downloads/MentorOnlinev1-e5bb088f524c6ec07a3b3d66eae0bec49d301cfd/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfo.cs
 /Users/jakobhoy/Downloads/MentorOnlinev1-e5bb088f524c6ec07a3b3d66eae0bec49d301cfd/obj/Debug/netcoreapp2.0/MentorOnlinev1.dll
 /Users/jakobhoy/Downloads/MentorOnlinev1-e5bb088f524c6ec07a3b3d66eae0bec49d301cfd/obj/Debug/netcoreapp2.0/MentorOnlinev1.pdb
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/bin/Debug/netcoreapp2.0/MentorOnlinev1.deps.json
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/bin/Debug/netcoreapp2.0/MentorOnlinev1.runtimeconfig.json
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/bin/Debug/netcoreapp2.0/MentorOnlinev1.runtimeconfig.dev.json
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/bin/Debug/netcoreapp2.0/MentorOnlinev1.dll
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/bin/Debug/netcoreapp2.0/MentorOnlinev1.pdb
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/obj/Debug/netcoreapp2.0/MentorOnlinev1.csproj.CoreCompileInputs.cache
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfoInputs.cache
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/obj/Debug/netcoreapp2.0/MentorOnlinev1.AssemblyInfo.cs
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/obj/Debug/netcoreapp2.0/MentorOnlinev1.dll
+/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/obj/Debug/netcoreapp2.0/MentorOnlinev1.pdb

@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jakobhoy/Downloads/MentorOnlinev1-e5bb088f524c6ec07a3b3d66eae0bec49d301cfd/MentorOnlinev1.csproj",
+      "projectUniqueName": "/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/MentorOnlinev1.csproj",
       "projectName": "MentorOnlinev1",
-      "projectPath": "/Users/jakobhoy/Downloads/MentorOnlinev1-e5bb088f524c6ec07a3b3d66eae0bec49d301cfd/MentorOnlinev1.csproj",
+      "projectPath": "/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/MentorOnlinev1.csproj",
       "packagesPath": "/Users/jakobhoy/.nuget/packages/",
-      "outputPath": "/Users/jakobhoy/Downloads/MentorOnlinev1-e5bb088f524c6ec07a3b3d66eae0bec49d301cfd/obj/",
+      "outputPath": "/Users/jakobhoy/Desktop/Development/Dotnet/MentorOnlinev1-2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

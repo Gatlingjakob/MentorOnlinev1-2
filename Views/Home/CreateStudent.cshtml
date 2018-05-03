@@ -9,7 +9,7 @@
 
 </head>
 <body>
-    <h1>Mentor Create</h1>
+    <h1>Create Student</h1>
 
     <hr>
 
@@ -18,7 +18,7 @@
     <a href="Entry/13"><button>Back to Comic</button></a>
 
     <hr>
-    <form method="post" action="/Home/create">
+    <form method="post" action="/Home/createstudent">
 
         <p>Name</p>
         <input type="text" name="Name" placeholder="string" />
@@ -32,20 +32,16 @@
         <input type="text" name="Email" placeholder="string" />
         <br><br>
 
-        <p>Subjects</p>
-        <input type="text" name="Subjects" placeholder="string" />
+        <p>Subscribed</p>
+        <input type="number" name="Subscribed" placeholder="int(1)" />
         <br><br>
 
         <p>Role</p>
         <input type="number" name="Role" placeholder="int(1)" />
         <br><br>
 
-        <p>Online</p>
-        <input type="number" name="Online" placeholder="0" />
-        <br><br>
-
-        <p>Imgur-URL</p>
-        <input type="text" name="Imgurl" placeholder="string" />
+        <p>Payment Info</p>
+        <input type="number" name="Paymentinfo" placeholder="16-digit int" />
         <br><br>
 
         <input type="submit" />
